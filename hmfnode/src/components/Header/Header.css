@@ -1,0 +1,56 @@
+/* Header.css */
+
+header {
+    display: flex;
+    margin-bottom: 100px;
+    padding-bottom: -100px;
+    background-color: white;
+}
+
+.S1 {
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    size: 16px;
+    gap: 10px;
+    margin-left: 200px;
+}
+
+.s {
+    font-size: 24px;
+    margin: auto;
+    color: #00b39b;
+}
+
+.a {
+    font-size: 24px;
+    margin: auto;
+    color: #747474;
+}
+
+.wordbar {
+    display: flex;
+    gap: 40px;
+    margin-left: 35%;
+    margin-bottom: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    list-style: none;
+}
+.wordbar li {
+    cursor: pointer;
+    color: #00b39b;
+    transition: color 0.3s ease;
+}
+
+.png {
+    margin-left: 47%;
+    margin-right: 53%;
+}
+
+#h1h {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    font-size: 35px;
+    color: #00b39b;
+}
